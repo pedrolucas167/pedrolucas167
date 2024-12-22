@@ -5,8 +5,8 @@
 ---
 
 ## 🌟 About Me
-🎯 **Passionate software engineer** with a keen interest in **data science** and cutting-edge technologies.  
-🚀 Always exploring new tools, frameworks, and methodologies to deliver impactful solutions.  
+🎯 **Passionate about software development** with a keen interest in **data science** and cutting-edge technologies.
+🚀 Always exploring new tools, frameworks and methodologies to deliver impactful solutions.
 
 ### 🛠️ My Tech Stack
 #### **Languages & Frameworks**
