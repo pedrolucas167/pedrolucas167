@@ -31,20 +31,14 @@
 
 ---
 
-## 🌍 What I’m Working On
-- Building robust **backend systems** and exploring advanced **data science techniques**.  
-- Diving deeper into **cloud solutions** and **containerization** with Docker and Kubernetes.  
-- Experimenting with **real-time systems** using RabbitMQ.  
-
----
 
 ## 💬 Let’s Connect!
 
-📧 **Email:** poloniosh@outlook.com.br 
-💼 **LinkedIn:**     [linkedin.com/in/pedrolucas167](https://linkedin.com/in/pedrolucas167)  
-📷  I**nstagram:** [linkedin.com/in/pedrolucas167](https://www.instagram.com/pedro.lucas.marques/)                               
+📧 **Email:** [poloniosh@outlook.com.br](mailto:poloniosh@outlook.com.br)  
+💼 **LinkedIn:** [linkedin.com/in/pedrolucas167](https://linkedin.com/in/pedrolucas167)  
+📷 **Instagram:** [@pedro.lucas.marques](https://www.instagram.com/pedro.lucas.marques/)  
+
 
 
 ---
 
-⭐ **"Code is like humor. When you have to explain it, it’s bad." – Cory House**
