@@ -39,9 +39,10 @@
 ---
 
 ## 💬 Let’s Connect!
+
 📧 **Email:** poloniosh@outlook.com.br 
-🌐 **Portfolio:**  [pedrolucas.dev](https://pedrolucas.dev)  
-💼 **LinkedIn:**   [linkedin.com/in/pedrolucas167](https://linkedin.com/in/pedrolucas167)  
+🌐 **Portfolio:**     [pedrolucas.dev](https://pedrolucas.dev)  
+💼 **LinkedIn:**     [linkedin.com/in/pedrolucas167](https://linkedin.com/in/pedrolucas167)  
 📷  I**nstagram:** [linkedin.com/in/pedrolucas167](https://www.instagram.com/pedro.lucas.marques/)                               
 
 
