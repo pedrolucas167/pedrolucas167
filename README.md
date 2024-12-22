@@ -39,10 +39,11 @@
 ---
 
 ## 💬 Let’s Connect!
-📧 **Email:** pedrolucas167@example.com  
-🌐 **Portfolio:** [pedrolucas.dev](https://pedrolucas.dev)  
-💼 **LinkedIn:** [linkedin.com/in/pedrolucas167](https://linkedin.com/in/pedrolucas167)  
-🐦 **Twitter:** [@pedrolucas167](https://twitter.com/pedrolucas167)
+📧 **Email:** poloniosh@outlook.com.br 
+🌐 **Portfolio:**  [pedrolucas.dev](https://pedrolucas.dev)  
+💼 **LinkedIn:**   [linkedin.com/in/pedrolucas167](https://linkedin.com/in/pedrolucas167)  
+📷  I**nstagram:** [linkedin.com/in/pedrolucas167](https://www.instagram.com/pedro.lucas.marques/)                               
+
 
 ---
 
