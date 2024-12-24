@@ -1,7 +1,5 @@
 # 👋 Hello, World! I'm Pedro Lucas (@pedrolucas167)
 
-![Profile Banner](https://via.placeholder.com/1000x250.png?text=Welcome+to+My+GitHub+Profile)
-
 ---
 
 ## 🌟 About Me
