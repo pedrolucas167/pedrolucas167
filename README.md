@@ -38,7 +38,7 @@
 
 ## 💬 Let’s Connect!
 
-📧 **Email:** [poloniosh@outlook.com.br](mailto:poloniosh@outlook.com.br)  
+📧 **Email:** [pedro_marques_dev@hotmail.com](mailto:pedro_marques_dev@hotmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/pedrolucas167](https://linkedin.com/in/pedrolucas167)  
 📷 **Instagram:** [@pedro.lucas.marques](https://www.instagram.com/pedro.lucas.marques/)  
 
