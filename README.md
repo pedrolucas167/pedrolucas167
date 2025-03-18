@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Pedro Lucas (@pedrolucas167)
+# 👋 Hello, World! I'm Pedro Marques (@pedromarquesdev)
 
 ---
 
