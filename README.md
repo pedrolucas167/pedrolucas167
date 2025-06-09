@@ -10,6 +10,8 @@
 🎯 **Passionate about software development** with a keen interest in **data science** and cutting-edge technologies.  
 🚀 Always exploring new tools, frameworks, and methodologies to deliver impactful solutions.
 
+<img src="https://camo.githubusercontent.com/009b73ad1f46a14319bdb25d9f598942c680331c733ade9fd4bf3e89ac94a6eb/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722f6e66746b6e696768742f756e697377617076332d636f6465" alt="Pull Requests Badge" data-canonical-src="https://img.shields.io/github/issues-pr/nftknight/uniswapv3-code" style="max-width: 100%;">
+
 ### 🛠️ My Tech Stack
 #### **Languages & Frameworks**  
 <p align="center">
