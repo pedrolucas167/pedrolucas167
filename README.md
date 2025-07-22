@@ -1,7 +1,6 @@
 
 # Welcome to My GitHub! 👋🚀
 ---
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pedrolucas167" alt="Visitas ao perfil" />
 </p>
