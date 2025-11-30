@@ -1,18 +1,21 @@
-
 # Welcome to My GitHub! 👋🚀
 ---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedrolucas167" alt="Visitas ao perfil" />
+  <img src="https://komarev.com/ghpvc/?username=pedrolucas167" alt="Profile Views" />
 </p>
 
 ## 🌟 About Me
-🎯 **Passionate about software development** with a keen interest in **data science** and cutting-edge technologies.  
-🚀 Always exploring new tools, frameworks, and methodologies to deliver impactful solutions.
+🎯 **Passionate about software development**, with a strong interest in **data science** and cutting-edge technologies.  
+🚀 Constantly exploring new tools, frameworks, and methodologies to build impactful and scalable solutions.
 
-<img src="https://camo.githubusercontent.com/009b73ad1f46a14319bdb25d9f598942c680331c733ade9fd4bf3e89ac94a6eb/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722f6e66746b6e696768742f756e697377617076332d636f6465" alt="Pull Requests Badge" data-canonical-src="https://img.shields.io/github/issues-pr/nftknight/uniswapv3-code" style="max-width: 100%;">
+<img src="https://img.shields.io/github/issues-pr/nftknight/uniswapv3-code" alt="Pull Requests Badge">
 
-### 🛠️ My Tech Stack
-#### **Languages & Frameworks**  
+---
+
+## 🛠️ My Tech Stack
+
+### **Languages & Frameworks**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -24,7 +27,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 </p>
 
-#### **Tools & Platforms**  
+### **Tools & Platforms**
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -36,14 +39,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 📊 Top Languages
+---
+
+## 📊 Top Languages
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucas167&layout=compact&langs_count=8&theme=dracula&hide=html&card_width=400"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedrolucas167&layout=compact&langs_count=8&theme=dracula&hide=html&card_width=400"
     alt="Top Languages"
   />
 </p>
-
 
 ---
 
