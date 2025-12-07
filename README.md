@@ -9,7 +9,10 @@
 🎯 **Passionate about software development**, with a strong interest in **data science** and cutting-edge technologies.  
 🚀 Constantly exploring new tools, frameworks, and methodologies to build impactful and scalable solutions.
 
-<img src="https://img.shields.io/github/issues-pr/nftknight/uniswapv3-code" alt="Pull Requests Badge">
+<p align="center">
+<img src="https://img.shields.io/github/issues-pr/nftknight/uniswapv3-code" alt="Pull Requests Badge"/>
+<img src="https://img.shields.io/github/issues/nftknight/uniswapv3-code" alt="Issues Badge"/>
+</p>
 
 ---
 
