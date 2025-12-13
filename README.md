@@ -41,11 +41,15 @@
 
 ## 📊 Top Languages
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrolucas167&theme=dracula" />
+</p>
+
+<p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedrolucas167&layout=compact&langs_count=8&theme=dracula&hide=html&card_width=400"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucas167&layout=compact&theme=dracula&hide=html&langs_count=8&card_width=445"
   />
 </p>
+
 
 ---
 
