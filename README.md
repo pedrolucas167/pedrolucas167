@@ -43,12 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrolucas167&theme=dracula" alt="Profile details" />
-</p>
-
 ## 📚 Top Languages
 
 <p align="center">
