@@ -54,4 +54,4 @@
 ## 💬 Let’s Connect!
 
 📧 **Email:** [pedro_marques_dev@hotmail.com](mailto:pedro_marques_dev@hotmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/pedrolucas167](https://linkedin.com/in/pedrolucas167)
+💼 **LinkedIn:** [linkedin.com/in/pedrolucas167](https://www.linkedin.com/in/pedromarquesdev)
