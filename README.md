@@ -43,14 +43,6 @@
 
 ---
 
-## 📚 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucas167&layout=compact&theme=dracula&hide=html&langs_count=8&card_width=445" alt="Top languages" />
-</p>
-
----
-
 ## 💬 Let’s Connect!
 
 📧 **Email:** [pedro_marques_dev@hotmail.com](mailto:pedro_marques_dev@hotmail.com)  
