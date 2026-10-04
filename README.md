@@ -1,4 +1,4 @@
-# Pedro Lucas 👋
+# Pedro Lucas Marques 👋
 
 **Software Engineer | Java & Backend | AI Engineering**
 
@@ -44,7 +44,7 @@ My main focus is **Java and backend engineering**, with hands-on experience buil
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Personal Projects
 
 ### ⚡ Order Matching Engine
 **Go · Concurrency · Performance · Data Structures**
@@ -63,25 +63,6 @@ The project explores systems-level engineering concepts such as:
 - Benchmarks for throughput and concurrent matching
 
 → [View project](./order-matching-engine)
-
----
-
-### 🧠 MemPalace
-**AI Engineering · LLMs · Semantic Search · MCP**
-
-A local AI memory system designed around the idea of preserving conversations without relying on an LLM to decide what should be forgotten.
-
-The project explores:
-
-- Long-term AI memory
-- Semantic retrieval
-- Conversation storage
-- Benchmarking memory systems
-- Token-efficient representations
-- Local-first AI architecture
-- MCP integration
-
-→ [View project](./mempalace)
 
 ---
 
@@ -146,21 +127,20 @@ The project includes:
 
 ---
 
+## 🏦 Backend Challenges & Algorithmic Solutions
+
 ### 🏦 BTG Pactual Backend Challenge
 **Java · Spring Boot · RabbitMQ · MongoDB · Docker**
 
-Backend implementation of a technical challenge involving order processing.
+Backend implementation of a technical challenge involving order processing and asynchronous message handling.
 
 The project demonstrates:
 
 - REST API development
-- Java 17
-- Spring Boot
-- RabbitMQ consumers
-- Asynchronous message processing
+- Java 17 & Spring Boot
+- RabbitMQ consumers for asynchronous processing
 - MongoDB persistence
-- Docker Compose
-- Business rule implementation
+- Containerized setup with Docker Compose
 - Integration between application, database, and message broker
 
 → [View project](./desafio-backend-btg-pactual)
@@ -178,11 +158,24 @@ The project focuses on fundamentals that matter in backend engineering:
 - Sorting and two-pointer algorithm
 - `O(n log n)` time complexity
 - Unit and integration tests
-- REST API design
-- Postman collection
-- Explicit business rules
+- REST API design and Postman collection
 
 → [View project](./airportcapacityanalyzer)
+
+---
+
+## 🔬 Open Source & Architecture Studies
+
+### 🧠 MemPalace
+**AI Engineering · LLMs · Semantic Search · MCP**
+
+An exploration and local experimentation with long-term memory architectures for AI systems, focusing on semantic retrieval, context optimization, and MCP integration.
+
+- Practical analysis of local-first AI memory systems
+- Token-efficient context management and semantic search
+- Benchmarking memory persistence and MCP server integration
+
+→ [View experiments](./mempalace)
 
 ---
 
@@ -211,9 +204,8 @@ I'm also studying the intersection of **software engineering, artificial intelli
 
 ## 📫 Contact
 
-**Email:** pedro_marques_dev@hotmail.com
-
-**LinkedIn:** pedromarquesdev
+**Email:** pedro_marques_dev@hotmail.com  
+**LinkedIn:** pedromarquesdev  
 
 ---
 
